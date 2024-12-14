@@ -1,0 +1,12 @@
+
+h1 {
+    font-weight: bold;
+    font-size: 50px;
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+}
+
+.recipe-link {
+    font-size: 32 px;
+    text-align: center;
+}
