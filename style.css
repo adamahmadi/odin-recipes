@@ -1,3 +1,6 @@
+body {
+    margin: 0;
+}
 
 h1 {
     font-weight: bold;
@@ -9,4 +12,7 @@ h1 {
 .recipe-link {
     font-size: 32 px;
     text-align: center;
+    list-style-position: inside;
+    padding: 15px;
+    background-color: lightseagreen;
 }
